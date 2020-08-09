@@ -3,27 +3,17 @@
 I'm a software engineer who is passionate about technology and help new developers to find the right path.
 Some technologies I enjoy working with include VueJS, Docker, and AWS.
 
-- 🔭 I'm a software Engineer [@Lavaloon](https://www.lavaloon.com/) in Cairo, Egypt
+:computer: _Software Engenieer at [Lavaloon](https://www.lavaloon.com/)_ :desert_island:Living in Cairo :egypt:
+- 🎓 Computer Science & Engineering undergraduate
 - 🌱 I’m currently learning DevOps
-- 📫 How to reach me: mostafa.saeed.h@gmail.com
 - ⚡ I’m currently working on [**Repeat after Housary** ](https://github.com/SarahZaki03/repeat)
-
-
-- 🎓Recent computer science graduate from UNC - Chapel Hill
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
 - :mailbox: You can reach me with the links below
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MostafaHashhash)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa.saeed.h@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-hashhash/)
-
-<p align="center">
-<a href="https://twitter.com/Mostafa_Saeed_H"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/8658383/mostafa-saeed-hashhash?tab=profile"><img src="https://img.shields.io/badge/stackoverflow-orange?style=flat&logo=stackoverflow&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100012292713126"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" /></a>
-</p>
+[![Twitter](https://img.shields.io/badge/-TWITTER-1FA1F1?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/Mostafa_saeed_H)
+[![Stackoverflow](https://img.shields.io/badge/-STACKOVERFLOW-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8658383/mostafa-saeed-hashhash?tab=profile) [![Facebook](https://img.shields.io/badge/-FACEBOOK-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100012292713126)
 
 ##### Languages I use
 
@@ -42,8 +32,6 @@ Some technologies I enjoy working with include VueJS, Docker, and AWS.
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-
-:computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
 
 ### My Tech Stack
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
