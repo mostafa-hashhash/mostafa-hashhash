@@ -3,7 +3,7 @@
 I'm a software engineer who is passionate about technology and help new developers to find the right path.
 Some technologies I enjoy working with include VueJS, Docker, and AWS.
 
-:computer: _Software Engenieer at [Lavaloon](https://www.lavaloon.com/)_ :desert_island:Living in Cairo :egypt:
+- :computer: Software Engenieer at [Lavaloon](https://www.lavaloon.com/) in Cairo, Egypt
 - 🎓 Computer Science & Engineering undergraduate
 - 🌱 I’m currently learning DevOps
 - ⚡ I’m currently working on [**Repeat after Housary** ](https://github.com/SarahZaki03/repeat)
@@ -31,7 +31,7 @@ Some technologies I enjoy working with include VueJS, Docker, and AWS.
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/-Vue.js-%23282C34?style=flat&logo=Vue.js)
 
 ### My Tech Stack
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -41,8 +41,8 @@ Some technologies I enjoy working with include VueJS, Docker, and AWS.
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Vue](https://img.shields.io/badge/-Vue-%23282C34?style=flat-square&logo=react)
+![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![VueJS](https://img.shields.io/badge/-Vue-%23282C34?style=flat-square&logo=vue.js)
 
 #### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
