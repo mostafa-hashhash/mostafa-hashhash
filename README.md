@@ -3,10 +3,9 @@
 I'm a software engineer who is passionate about technology and help new developers to find the right path.
 Some technologies I enjoy working with include VueJS, Docker, and AWS.
 
-- :computer: Software Engenieer at [Lavaloon](https://www.lavaloon.com/) in Cairo, Egypt
 - 🎓 Computer Science & Engineering undergraduate
 - 🌱 I’m currently learning DevOps
-- ⚡ I’m currently working on [**Repeat after Housary** ](https://github.com/SarahZaki03/repeat)
+- ⚡ I’m currently working on [**e-commerce system** ](https://github.com/mostafa-hashhash/ecommerce)
 - :mailbox: You can reach me with the links below
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MostafaHashhash)
